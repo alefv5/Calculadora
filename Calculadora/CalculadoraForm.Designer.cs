@@ -1,6 +1,6 @@
 ﻿namespace Calculadora
 {
-    partial class Form1
+    partial class CalculadoraForm
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -302,8 +302,8 @@
             this.Controls.Add(this.boton7);
             this.Controls.Add(this.botonSuma);
             this.Controls.Add(this.Pantalla);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "CalculadoraForm";
+            this.Text = "CalculadoraForm";
             this.ResumeLayout(false);
             this.PerformLayout();
 

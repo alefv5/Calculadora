@@ -17,29 +17,20 @@ namespace Calculadora
             _operador = "";
         }
 
-        public void definirOperador(string operador)
-        {
-            _operador = operador;
-        }
-
-        public void borrarCifraGuardada()
+        public void reiniciarParametros()
         {
             _cifraGuardada = -1;
+            _operador = "";
         }
 
-        public void IngresarCifra(double nuevaCifra)
+        public void guardarParametros(double nuevaCifra,string operador)
         {
-            if(_cifraGuardada == -1)
-            {
-                _cifraGuardada = nuevaCifra;
-            }
-            else
-            {
-                _cifraGuardada = Calcular(nuevaCifra);
-            }
+            _operador = operador;
+            _cifraGuardada = _cifraGuardada == -1 ? nuevaCifra : calcular(nuevaCifra);
+
         }
         
-        public double Calcular(double cifraIngresada)
+        public double calcular(double cifraIngresada)
         {
             double resultado = 0;
             switch (_operador)

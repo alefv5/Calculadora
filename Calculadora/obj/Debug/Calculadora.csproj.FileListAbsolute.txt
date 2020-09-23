@@ -12,8 +12,8 @@ D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculado
 D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\bin\Debug\Calculadora.exe
 D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
 D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
-D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
 D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
 D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
 D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\obj\Debug\Calculadora.CalculadoraForm.resources
