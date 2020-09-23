@@ -81,7 +81,7 @@
             this.botonDEL.TabIndex = 44;
             this.botonDEL.Text = "DEL";
             this.botonDEL.UseVisualStyleBackColor = false;
-            this.botonDEL.Click += new System.EventHandler(this.botonDEL_Click);
+            this.botonDEL.Click += new System.EventHandler(this.botonEliminar_Click);
             // 
             // botonDiv
             // 
@@ -94,7 +94,7 @@
             this.botonDiv.TabIndex = 43;
             this.botonDiv.Text = "/";
             this.botonDiv.UseVisualStyleBackColor = false;
-            this.botonDiv.Click += new System.EventHandler(this.botonDiv_Click);
+            this.botonDiv.Click += new System.EventHandler(this.botonOperador_Click);
             // 
             // botonPunto
             // 
@@ -105,9 +105,9 @@
             this.botonPunto.Name = "botonPunto";
             this.botonPunto.Size = new System.Drawing.Size(52, 43);
             this.botonPunto.TabIndex = 42;
-            this.botonPunto.Text = ".";
+            this.botonPunto.Text = ",";
             this.botonPunto.UseVisualStyleBackColor = false;
-            this.botonPunto.Click += new System.EventHandler(this.botonPunto_Click);
+            this.botonPunto.Click += new System.EventHandler(this.botonNumeros_Click);
             // 
             // boton3
             // 
@@ -120,7 +120,7 @@
             this.boton3.TabIndex = 41;
             this.boton3.Text = "3";
             this.boton3.UseVisualStyleBackColor = false;
-            this.boton3.Click += new System.EventHandler(this.boton3_Click);
+            this.boton3.Click += new System.EventHandler(this.botonNumeros_Click);
             // 
             // boton6
             // 
@@ -133,7 +133,7 @@
             this.boton6.TabIndex = 40;
             this.boton6.Text = "6";
             this.boton6.UseVisualStyleBackColor = false;
-            this.boton6.Click += new System.EventHandler(this.boton6_Click);
+            this.boton6.Click += new System.EventHandler(this.botonNumeros_Click);
             // 
             // boton9
             // 
@@ -146,7 +146,7 @@
             this.boton9.TabIndex = 39;
             this.boton9.Text = "9";
             this.boton9.UseVisualStyleBackColor = false;
-            this.boton9.Click += new System.EventHandler(this.boton9_Click);
+            this.boton9.Click += new System.EventHandler(this.botonNumeros_Click);
             // 
             // botonMult
             // 
@@ -159,7 +159,7 @@
             this.botonMult.TabIndex = 38;
             this.botonMult.Text = "*";
             this.botonMult.UseVisualStyleBackColor = false;
-            this.botonMult.Click += new System.EventHandler(this.botonMult_Click);
+            this.botonMult.Click += new System.EventHandler(this.botonOperador_Click);
             // 
             // boton2
             // 
@@ -172,7 +172,7 @@
             this.boton2.TabIndex = 37;
             this.boton2.Text = "2";
             this.boton2.UseVisualStyleBackColor = false;
-            this.boton2.Click += new System.EventHandler(this.boton2_Click);
+            this.boton2.Click += new System.EventHandler(this.botonNumeros_Click);
             // 
             // boton5
             // 
@@ -185,7 +185,7 @@
             this.boton5.TabIndex = 36;
             this.boton5.Text = "5";
             this.boton5.UseVisualStyleBackColor = false;
-            this.boton5.Click += new System.EventHandler(this.boton5_Click);
+            this.boton5.Click += new System.EventHandler(this.botonNumeros_Click);
             // 
             // boton8
             // 
@@ -198,7 +198,7 @@
             this.boton8.TabIndex = 35;
             this.boton8.Text = "8";
             this.boton8.UseVisualStyleBackColor = false;
-            this.boton8.Click += new System.EventHandler(this.boton8_Click);
+            this.boton8.Click += new System.EventHandler(this.botonNumeros_Click);
             // 
             // botonResta
             // 
@@ -211,7 +211,7 @@
             this.botonResta.TabIndex = 34;
             this.botonResta.Text = "-";
             this.botonResta.UseVisualStyleBackColor = false;
-            this.botonResta.Click += new System.EventHandler(this.botonResta_Click);
+            this.botonResta.Click += new System.EventHandler(this.botonOperador_Click);
             // 
             // boton0
             // 
@@ -224,7 +224,7 @@
             this.boton0.TabIndex = 33;
             this.boton0.Text = "0";
             this.boton0.UseVisualStyleBackColor = false;
-            this.boton0.Click += new System.EventHandler(this.boton0_Click);
+            this.boton0.Click += new System.EventHandler(this.botonNumeros_Click);
             // 
             // boton1
             // 
@@ -237,7 +237,7 @@
             this.boton1.TabIndex = 32;
             this.boton1.Text = "1";
             this.boton1.UseVisualStyleBackColor = false;
-            this.boton1.Click += new System.EventHandler(this.boton1_Click);
+            this.boton1.Click += new System.EventHandler(this.botonNumeros_Click);
             // 
             // boton4
             // 
@@ -250,7 +250,7 @@
             this.boton4.TabIndex = 31;
             this.boton4.Text = "4";
             this.boton4.UseVisualStyleBackColor = false;
-            this.boton4.Click += new System.EventHandler(this.boton4_Click);
+            this.boton4.Click += new System.EventHandler(this.botonNumeros_Click);
             // 
             // boton7
             // 
@@ -263,7 +263,7 @@
             this.boton7.TabIndex = 30;
             this.boton7.Text = "7";
             this.boton7.UseVisualStyleBackColor = false;
-            this.boton7.Click += new System.EventHandler(this.boton7_Click);
+            this.boton7.Click += new System.EventHandler(this.botonNumeros_Click);
             // 
             // botonSuma
             // 
@@ -276,7 +276,7 @@
             this.botonSuma.TabIndex = 29;
             this.botonSuma.Text = "+";
             this.botonSuma.UseVisualStyleBackColor = false;
-            this.botonSuma.Click += new System.EventHandler(this.botonSuma_Click);
+            this.botonSuma.Click += new System.EventHandler(this.botonOperador_Click);
             // 
             // Form1
             // 

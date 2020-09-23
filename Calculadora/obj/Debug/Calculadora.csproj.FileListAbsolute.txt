@@ -8,3 +8,12 @@ C:\Users\LENOVO\Desktop\Arqui\Calculadora\Calculadora\obj\Debug\Calculadora.cspr
 C:\Users\LENOVO\Desktop\Arqui\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\LENOVO\Desktop\Arqui\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\LENOVO\Desktop\Arqui\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Ariel\Universidad\Arquitectura de Software\Tareas\3. Refatorizacion\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
